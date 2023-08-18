@@ -13,5 +13,5 @@ Crea una aplicación para dispositivos móviles que ayude a los usuarios a crear
 Desarrolla una aplicación móvil para gestionar tareas pendientes. Los usuarios podrán agregar, editar y eliminar tareas en su dispositivo Android. Implementa una función de recordatorio para ciertas tareas, utilizando notificaciones locales del sistema. Utiliza el almacenamiento local en el dispositivo para guardar la información de las tareas y los recordatorios.
 
 
-#IDEA SELECCIONADA: Historia Interactiva
+# IDEA SELECCIONADA: Historia Interactiva
 ## Desarrolla una aplicación móvil de historia interactiva donde los usuarios puedan explorar diferentes escenarios y tomar decisiones que afecten la relación entre dos personajes. 
